@@ -1,0 +1,7 @@
+{
+  "name": "Erhards Lieferservice Planner",
+  "description": "An intelligent route optimization dashboard for delivery logistics, featuring AI-powered route analysis and real-time path visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
